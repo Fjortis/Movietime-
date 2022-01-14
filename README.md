@@ -14,7 +14,7 @@ Movie search project binary studio
 
 Open http://localhost:9090/ to view it in the browser.
 
-## Check typescript errors
+## Check typescript and linter errors
 
 `npm run lint`
 >>>>>>> 4517dba (create README.md)
