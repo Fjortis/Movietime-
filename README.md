@@ -1,20 +1,30 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Movietime-
 Movie search project binary studio
 =======
 # MOVIE APP
+=======
+# JS for everyone
+>>>>>>> 20dd193 (update README)
 
-## Instalation
+## 🏃‍♂️ Simple start
 
-`npm install`
+1. **`npm install`** at the root
+2. **`npm run start`** at the root
+3. open **`http://localhost:8000/`**
 
-## Run project
+## 🖌️ Check typescript and linter errors
 
-`npm run start`
+**`npm run lint`** at the root
 
-Open http://localhost:9090/ to view it in the browser.
+## 💡 PS
 
-## Check typescript and linter errors
+The project has a [Prettier](https://prettier.io/) and [ESLint](https://eslint.org/) set up, so use it to format the code.
 
+<<<<<<< HEAD
 `npm run lint`
 >>>>>>> 4517dba (create README.md)
+=======
+## 🤞 Good luck
+>>>>>>> 20dd193 (update README)
