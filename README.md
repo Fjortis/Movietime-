@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Movietime-
-Movie search project binary studio
-=======
-# MOVIE APP
-=======
 # JS for everyone
->>>>>>> 20dd193 (update README)
 
 ## 🏃‍♂️ Simple start
 
@@ -29,9 +21,10 @@ The project has a [Git Hooks](https://www.atlassian.com/git/tutorials/git-hooks)
 
 Please, make sure there are no linter errors in your homework!
 
-<<<<<<< HEAD
-`npm run lint`
->>>>>>> 4517dba (create README.md)
-=======
+<<<<<<< HEAD `npm run lint`
+
+> > > > > > > # 4517dba (create README.md)
+
 ## 🤞 Good luck
->>>>>>> 20dd193 (update README)
+
+> > > > > > > 20dd193 (update README)
